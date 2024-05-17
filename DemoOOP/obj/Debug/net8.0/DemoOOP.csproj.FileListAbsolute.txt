@@ -1,0 +1,14 @@
+D:\dotnet2\DemoOOP\bin\Debug\net8.0\DemoOOP.exe
+D:\dotnet2\DemoOOP\bin\Debug\net8.0\DemoOOP.deps.json
+D:\dotnet2\DemoOOP\bin\Debug\net8.0\DemoOOP.runtimeconfig.json
+D:\dotnet2\DemoOOP\bin\Debug\net8.0\DemoOOP.dll
+D:\dotnet2\DemoOOP\bin\Debug\net8.0\DemoOOP.pdb
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\DemoOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\DemoOOP.AssemblyInfoInputs.cache
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\DemoOOP.AssemblyInfo.cs
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\DemoOOP.csproj.CoreCompileInputs.cache
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\DemoOOP.dll
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\refint\DemoOOP.dll
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\DemoOOP.pdb
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\DemoOOP.genruntimeconfig.cache
+D:\dotnet2\DemoOOP\obj\Debug\net8.0\ref\DemoOOP.dll
